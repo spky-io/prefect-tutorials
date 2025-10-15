@@ -5,7 +5,7 @@ A comprehensive 8-article series that takes you from Prefect beginner to advance
 ## 📋 Implementation Status
 
 | Article | Status | Git Commit | Git Branch | Last Updated |
-|---------|--------|------------|--------------|
+|---------|--------|------------|------------|--------------|
 | **Article 0** - Foundation Concepts | 🔄 Planned | - | - | - |
 | **Article 1** - Prefect Fundamentals | 🔄 Planned | - | - | - |
 | **Article 2** - Building Robust Pipelines | 🔄 Planned | - | - | - |
